@@ -4,5 +4,5 @@
 <p>사용한 도구</p>
 <ul>
     <li> Pychram 2022.2.1 python 3.7.6</li>
-    <li> bootstrap : <a href="https://getbootstrap.com/docs/5.0/components/buttons/"> 하이퍼링크 </a></li>
+    <li> bootstrap : <a href="https://getbootstrap.com/docs/5.0/components/buttons/">https://getbootstrap.com/docs/5.0/components/buttons/</a></li>
 </ul>

@@ -3,6 +3,6 @@
 <h1>영화 기록 웹사이트</h1>
 <p>사용한 도구</p>
 <ul>
-    <li> Pychram 2022.2.1 <span style="color:blue">python 3.7.6</span></li>
+    <li> Pychram 2022.2.1 <span style="color:red">python 3.7.6</span></li>
     <li> bootstrap : <a href="https://getbootstrap.com/docs/5.0/components/buttons/">https://getbootstrap.com/docs/5.0/components/buttons/</a></li>
 </ul>
